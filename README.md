@@ -22,4 +22,4 @@ This project develops a two-stage recommender system for ACSE Supermarket's Coca
 
 ## 📄 Files
 - `recommender_system_final.ipynb`: Final modeling notebook
-- `report/`: Full write-up and business recommendations
+- `ISOM 676 - Recommender System Report.doc`: Full write-up and business recommendations
