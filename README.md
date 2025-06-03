@@ -21,5 +21,5 @@ This project develops a two-stage recommender system for ACSE Supermarket's Coca
 - Logistic Regression, k-NN, Naive Bayes, Association Rule Mining
 
 ## 📄 Files
-- `notebooks/recommender_system_final.ipynb`: Final modeling notebook
+- `recommender_system_final.ipynb`: Final modeling notebook
 - `report/`: Full write-up and business recommendations
